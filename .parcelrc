@@ -1,8 +1,4 @@
 {
-    "main": "unrelated.js",
-    "targets": {
-        "main": false
-    },
     "extends": "@parcel/config-default",
     "transformers": {
         "*.{gltf,glb,png,jpg,obj,hdrm,fnt}": [
